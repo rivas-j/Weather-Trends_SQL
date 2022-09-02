@@ -1,7 +1,7 @@
 # Analyzing Weather Trends with SQL
 
 ## Overview
-Our good friend W. Avy lives in Oahu, Hawaii, and needs our help analyzing weather trends to help determine if the surf and ice cream shop business is sustainable year-round. We have already analyzed the precipitation level data to show that Oahu is the perfect place for surfers. The next objective is to analyze historical temperature data for June and December in Oahu. Our primary tools will be Jupyter Notebook and the SQLAlchemy depencency, which will enable us to perform the necessary queries for this analysis
+Our good friend lives in Oahu, Hawaii, and needs our help analyzing weather trends to help determine if a surf and ice cream shop is sustainable year-round. We have already analyzed the precipitation level data to show that Oahu is the perfect place for surfers. The next objective is to analyze historical temperature data for June and December in Oahu. Our primary tools will be Jupyter Notebook and the SQLAlchemy depencency, which will enable us to perform the necessary queries for this analysis
 
 ## Analysis
 
