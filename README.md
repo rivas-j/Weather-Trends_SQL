@@ -33,6 +33,7 @@ We'll be analyzing historical weather data stored locally in a SQLite database
     - **Pandas:** Open source Python library providing high performance analysis tools
     - **Numpy:** Open source Python library used for advanced scientific computing
     - **SQLAlchemy:** Open source Python library used for querying SQL databases
+    - **Flask:** Python tool used for developing web applications
 - **SQL:** Structured Query Language, used to query databases and quickly analyze structured data
 
 
